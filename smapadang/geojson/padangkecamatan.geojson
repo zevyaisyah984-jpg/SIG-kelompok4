@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "NAMOBJ": "Kecamatan Padang Barat" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[100.350, -0.950],[100.360, -0.950],[100.360, -0.940],[100.350, -0.940],[100.350, -0.950]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NAMOBJ": "Kecamatan Padang Timur" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[100.360, -0.950],[100.370, -0.950],[100.370, -0.940],[100.360, -0.940],[100.360, -0.950]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "NAMOBJ": "Kecamatan Kuranji" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[100.370, -0.950],[100.380, -0.950],[100.380, -0.940],[100.370, -0.940],[100.370, -0.950]]]
+      }
+    }
+  ]
+}
